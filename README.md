@@ -1,2 +1,7 @@
 # linktolinkforgrowth
-A secure-by-design trust architecture for decentralized digital identity signals вЂ” includes PNG signatures, TLS certificates, QR encoding, and manifesto metadata. Built to integrate cryptographic ethics into machine-readable systems.
+
+Машинночитана платформа цифрової довіри:
+- PNG-сигнатури
+- TLS-сертифікати
+- QR-коди та метадані
+- GitHub Pages як точка входу
